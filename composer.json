@@ -1,0 +1,17 @@
+{
+  "name": "alyou/belajar-php-composer-library",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Alyou\\BelajarPhpComposerLibrary\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "AlYouma Akmal"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  }
+}
